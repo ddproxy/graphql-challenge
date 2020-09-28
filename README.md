@@ -12,6 +12,8 @@ Copy the `dist.env` file to `.env` and fill the two environment variables with y
 make install build up
 ```
 
+Then navigate to [http://localhost:8080/home](http://localhost:8080/home)
+
 ## Long setup
 ### Install
 ```bash
