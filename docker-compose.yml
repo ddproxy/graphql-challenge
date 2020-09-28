@@ -1,0 +1,12 @@
+version: '3'
+services:
+  node:
+    image: graphql-challenge
+    build: .
+    restart: always
+    environment:
+      - PORT=8080
+    env_file:
+      - .env
+    ports:
+    - 8080:8080

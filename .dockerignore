@@ -1,0 +1,5 @@
+.idea
+Dockerfile
+docker-compose.yml
+graphql-challenge.iml
+node_modules
